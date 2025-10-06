@@ -1,0 +1,14 @@
+C:\Users\vivex\source\repos\CoAc\CoAc\bin\Debug\net8.0\CoAc.exe
+C:\Users\vivex\source\repos\CoAc\CoAc\bin\Debug\net8.0\CoAc.deps.json
+C:\Users\vivex\source\repos\CoAc\CoAc\bin\Debug\net8.0\CoAc.runtimeconfig.json
+C:\Users\vivex\source\repos\CoAc\CoAc\bin\Debug\net8.0\CoAc.dll
+C:\Users\vivex\source\repos\CoAc\CoAc\bin\Debug\net8.0\CoAc.pdb
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\CoAc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\CoAc.AssemblyInfoInputs.cache
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\CoAc.AssemblyInfo.cs
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\CoAc.csproj.CoreCompileInputs.cache
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\CoAc.dll
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\refint\CoAc.dll
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\CoAc.pdb
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\CoAc.genruntimeconfig.cache
+C:\Users\vivex\source\repos\CoAc\CoAc\obj\Debug\net8.0\ref\CoAc.dll
